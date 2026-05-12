@@ -33,7 +33,7 @@
    로컬 실행 방법 (Docker 기반):
 
    ```bash
-   git clone [레포지토리 주소]
+   git clone [[레포지토리 주소]](https://github.com/sharksardin/UserWhyService.git)
    cd UserWhy
    sudo docker-compose up -d --build
    ```
